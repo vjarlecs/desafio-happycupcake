@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-happycupcake/static/css/main.44f8b8b5.css",
+    "main.js": "/desafio-happycupcake/static/js/main.dbe4f84e.js",
+    "index.html": "/desafio-happycupcake/index.html",
+    "main.44f8b8b5.css.map": "/desafio-happycupcake/static/css/main.44f8b8b5.css.map",
+    "main.dbe4f84e.js.map": "/desafio-happycupcake/static/js/main.dbe4f84e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.dbe4f84e.js"
+  ]
+}
